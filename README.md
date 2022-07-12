@@ -3,7 +3,7 @@
 
 <!--**blenassefa2/blenassefa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are somethings to know about me:
+Here are some things to know about me:
 
 - 👩‍🎓 I am a third year CS student living in Ethiopia
 - 📖 Exploring software engineering and cyber security
