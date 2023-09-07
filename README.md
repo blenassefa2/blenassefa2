@@ -5,7 +5,9 @@
 
 Here are some things about me:
 
-- 👩‍🎓 I am a computer science student living in Ethiopia
-- 📖 Interested in software engineering and cyber security
-- 🔭 I’m working on Alx software engineering projects and A2SV competitive programming
-- 🌱 I’m currently Head of education intern and part-time backend developer at A2SV
+- 👩‍🎓 I am a computer science graduate living in Ethiopia
+- 📖 Interested in software engineering, cybersecurity and AI
+- 🔭 I’ve worked on an Alx software engineering projects
+- 🌱 I’m currently Head of education and competitive programmer at A2SV
+
+You can find me on linkedin and connect
