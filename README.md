@@ -10,4 +10,4 @@ Here are some things about me:
 - 🔭 I’ve worked on an Alx software engineering projects
 - 🌱 I’m currently Head of education and competitive programmer at A2SV
 
-You can find me on linkedin and connect
+You can find me on [linkedin](https://www.linkedin.com/in/blen-tilahun/) and connect
