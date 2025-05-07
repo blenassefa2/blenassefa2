@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋🏽, I'm Blen Tilahun</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/blen-tilahun/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Blen%20Tilahun-blue?logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:blenassefa59@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-informational?logo=gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=blenassefa2&style=flat-square&color=green" alt="Profile views" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
@@ -62,18 +62,8 @@
 </p>
 
 ---
+-->
 
-### 🌍 Why A2SV Matters
-
-Before A2SV, many African youth lacked access to the environment, mentorship, and resources needed to transition from university to world-class tech careers. A2SV is closing that gap by:
-
-- Training over **800+ students** in algorithms, software engineering, and problem-solving  
-- Supporting **20+ real-world projects**, including fintech, healthtech, and edtech platforms  
-- Partnering with global companies and building an **African tech ecosystem** from the ground up  
-
-Whether you’re a company looking to **hire elite engineers**, an investor seeking high-impact ventures, or an educator passionate about change—A2SV offers a unique opportunity to shape the future of tech in Africa.
-
----
 
 ### ✨ Highlights
 
@@ -87,9 +77,9 @@ Whether you’re a company looking to **hire elite engineers**, an investor seek
 
 ### 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📫 [Email](mailto:your.email@example.com)  
-- 🌐 [Portfolio or Blog](https://your-website.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blen-tilahun)  
+- 📫 [Email](mailto:blenassefa59@gmail.com)  
+<!-- 🌐 [Portfolio or Blog](https://your-website.com)-->
 
 ---
 
